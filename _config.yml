@@ -1,19 +1,16 @@
 # Site settings
 title: Wuren's Quant Lab
 SEOTitle: Wuren Wang | Quant Student
-<<<<<<< HEAD
 header-img: img/main_photo.jpg
 email: qiubaiying@gmail.com
 description: "Learning, trading, changing"
 keyword: "Quant, Market, Trading, Wuren Wang, Learning"
 url: "http://Wuren.github.io"          # your host, for absolute URL
-=======
 header-img: img/main_photo.png
 email: wangwuren96@gmail.com
 description: "Learning, trading, changing"
 keyword: "Quant, Market, Trading, Wuren Wang, Learning"
 url: "http://WurenWang.github.io"          # your host, for absolute URL
->>>>>>> 22c30e5e4ea179eb54d94ea56fec880c40c1eefd
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/WurenWang/WurenWang.github.io" # you code repository
 
