@@ -6,14 +6,11 @@ email: qiubaiying@gmail.com
 description: "Learning, trading, changing"
 keyword: "Quant, Market, Trading, Wuren Wang, Learning"
 url: "http://Wuren.github.io"          # your host, for absolute URL
-<<<<<<< HEAD
-=======
 header-img: img/main_photo.png
 email: wangwuren96@gmail.com
 description: "Learning, trading, changing"
 keyword: "Quant, Market, Trading, Wuren Wang, Learning"
 url: "http://WurenWang.github.io"          # your host, for absolute URL
->>>>>>> 9a47d9e986ef1d777f6d86cebc8e42bc5510ea0c
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
