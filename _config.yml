@@ -2,7 +2,7 @@
 title: Wuren's Quant Lab
 SEOTitle: Wuren Wang | Quant Student
 header-img: img/main_photo.jpg
-email: qiubaiying@gmail.com
+email: wangwuren96@gmail.com
 description: "Learning, trading, changing"
 keyword: "Quant, Market, Trading, Wuren Wang, Learning"
 url: "http://wurenwang.github.io"          # your host, for absolute URL
@@ -16,7 +16,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "First year quant student from University of Michigan, Mathematics Department, Looking for internship or Full- time job about quantitative trading or Risk management"
 sidebar-avatar: /img/About_Me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
